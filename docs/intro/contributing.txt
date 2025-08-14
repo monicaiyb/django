@@ -207,7 +207,7 @@ Now we are ready to run the test suite:
 
 .. console::
 
-    $ ./runtests.py
+    $ python3 ./runtests.py
 
 Now sit back and relax. Django's entire test suite has thousands of tests, and
 it takes at least a few minutes to run, depending on the speed of your
